@@ -21,3 +21,17 @@ button {
   font-size: 16px;
   cursor: pointer;
 }
+
+.product {
+  border: 1px solid #ddd;
+  margin-top: 20px;
+  padding: 20px;
+  width: 600px;
+  text-align: center;
+  img {
+    width: 100%;
+  }
+  p {
+    margin: 20px 0;
+  }
+}
